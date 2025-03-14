@@ -1,0 +1,6 @@
+notebook 
+jupyter
+numpy
+pandas
+matplotlib
+seaborn
