@@ -4,3 +4,11 @@ numpy
 pandas
 matplotlib
 seaborn
+scikit-learn
+scipy
+xgboost
+lightgbm
+LabelEncoder
+StandardScaler
+imbalanced-learn
+train_test_split
