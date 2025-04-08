@@ -8,7 +8,10 @@ scikit-learn
 scipy
 xgboost
 lightgbm
-LabelEncoder
 StandardScaler
 imbalanced-learn
-train_test_split
+RandomForestClassifier
+SelectFromModel
+PCA
+Pipeline
+warnings
